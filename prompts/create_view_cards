@@ -1,0 +1,14 @@
+1 - Create a view 
+___________________________________________________________________
+Consider the relational model below 
+
+[copy script of the relational model]
+
+and bring all informations of tbl_cards replacing for names of the foreigns keys, salve it in a view to posgresql.
+___________________________________________________________________
+
+2 - Perform better script of the view
+
+Given a view "Name of view", make a select but doesn't make the select with "*", make calling each field.
+
+bd_tcgpokemon_cards

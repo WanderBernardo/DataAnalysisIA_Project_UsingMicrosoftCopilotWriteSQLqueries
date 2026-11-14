@@ -1,0 +1,68 @@
+1 - Prompt
+_______________________________________________________________
+## Action
+create a script to create a table in postgresql
+
+## Context
+- the first table is a table to save a pokemom tcg cards 
+- the second table is a table to save collections set
+
+connect to tables with foreign key
+
+
+## Information
+the first table: tbl_cards
+- id
+- hp
+- name
+- type
+- stage
+- Information
+- attack
+- dammage
+- weak
+- resis.
+- retreat
+- cardNumberInCollection
+
+the second table: tbl_collections
+- id
+- collecctionSetName
+- releaseDate
+- totalCardsInCollection
+
+2 - Prompt
+_______________________________________________________________
+
+Otimize the varchar fields to perfect size.
+
+3 - Prompt
+_______________________________________________________________
+
+never use comments in my scripts
+
+4 - Prompt
+_______________________________________________________________
+
+create annother tables and link to tbl_cards
+- create a table to separate type
+- create a table to separate stage
+
+5 - Prompt(seeds)
+_______________________________________________________________
+
+Consider tables below 
+
+[copy script create_tables.sql]
+
+create a initial seed to all tables with tcg pokemon, generate inserts scripts.
+
+6 - Prompt(seeds)
+_______________________________________________________________
+
+create more 30 records
+
+7 - Prompt(seeds)
+_______________________________________________________________
+
+create more 50 records
