@@ -271,3 +271,7 @@ Adjust the filenames and folders to match the actual files committed to the repo
 ---
 
 **Project focus:** PostgreSQL · SQL · Data Analysis Foundations · Relational Database Design · Microsoft Copilot · AI-Assisted Development
+
+## Main Page:
+
+ - https://github.com/WanderBernardo/DataAnalysis.git
